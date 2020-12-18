@@ -3,3 +3,6 @@
 .vscode/
 elm-stuff/
 project/
+dist/
+node_modules/
+
