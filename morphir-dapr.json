@@ -1,0 +1,7 @@
+{
+    "name": "Auction",
+    "sourceDirectory": "src",
+    "exposedModules": [
+        "Bidding"
+    ]
+}

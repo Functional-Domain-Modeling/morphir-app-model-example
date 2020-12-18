@@ -1,0 +1,5 @@
+.bloop/
+.metals/
+.vscode/
+elm-stuff/
+project/
